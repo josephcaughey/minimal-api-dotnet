@@ -1,0 +1,15 @@
+bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+.vs/
+.idea/
+*.user
+TestResults/
+.claude/
+CLAUDE.md
+MEMORY.md
+.cursor/
+.aider*
+.continue/
